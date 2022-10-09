@@ -13,7 +13,7 @@ global.APIKeys = {
 
 
 global.OWNER_REACT = '🧑🏻‍💻'
-global.REACT_NUMBER = '94753420144'
+global.REACT_NUMBER = '94717543279'
 
 //aumto functioner
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -34,23 +34,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['94753420144'] //ur owner number
-global.ownername = "SenuBoy" //ur owner name
-global.ytname = "YT: SenuBoy" //ur yt chanel name
-global.socialm = "GitHub: SenuBoy" //ur github or insta name
+global.vcardowner = ['94717543279'] //ur owner number
+global.ownername = "Ms_𝘅 AtTacK_" //ur owner name
+global.ytname = "Ms_𝘅 AtTacK_" //ur yt chanel name
+global.socialm = "GitHub: Ms_𝘅 AtTacK_" //ur github or insta name
 global.location = "SriLanka, Kaluthara, Panadura" //ur location
 
 //bot bomdy 
-global.owner = ['94753420144']
-global.ownertag = '94753420144' //ur tag number
-global.botname = 'Queen-Melissa-Beta' //ur bot name
-global.linkz = "https://github.com/SenuBoy/Queen-Melissa-Beta" //your theme url which will be displayed on whatsapp
-global.websitex = "https://github.com/SenuBoy/Queen-Melissa-Beta" //ur website to be displayed
-global.botscript = 'https://github.com/SenuBoy/Queen-Melissa-Beta' //script link
+global.owner = ['94717543279']
+global.ownertag = '94717543279' //ur tag number
+global.botname = 'Queen-MsH-Beta❀' //ur bot name
+global.linkz = "https://github.com/SenuBoy/Queen-MsH❀-Beta" //your theme url which will be displayed on whatsapp
+global.websitex = "https://github.com/SenuBoy/Queen-MsH❀-Beta" //ur website to be displayed
+global.botscript = 'https://github.com/SenuBoy/Queen-MsH❀-Beta' //script link
 global.reactmoji = "💖" //ur menu react emoji
 global.themeemoji = "🎸" //ur theme emoji
-global.packname = "Queen-Melissa-Beta" //ur sticker watermark packname
-global.author = "SenuBoy" //ur sticker watermark author
+global.packname = "Queen-MsH-Beta❀" //ur sticker watermark packname
+global.author = "Ms_𝘅 AtTacK_" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -59,7 +59,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['94753420144'] //ur premium numbers
+global.premium = ['94717543279'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
